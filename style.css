@@ -1,0 +1,36 @@
+/*Estilo en el body*/
+body{
+    color: rgb(32, 6, 6);
+    background-color: #FEFBE9;
+    font-family: 'Roboto', sans-serif;;
+}
+
+p, li{
+    color: #183A1D;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color: #F0A04B;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    border-style: groove;
+    border-width: 3px;
+    border-color: #F0A04B;
+    padding: 5px;
+    margin: 20px;
+}
+
+div, footer{
+    background-color:#E1EEDD;
+}
